@@ -1,1 +1,0 @@
-# ritual-commits-2
